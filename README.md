@@ -4,7 +4,7 @@
 ![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)
 ____
 # 👋 Hi there, I'm Misha!
-https://github.com/MeT3ger/MeT3ger/assets/92210552/562a2f22-4bc7-482f-b77d-de96fcce8875
+https://github.com/MeT3ger/MeT3ger/assets/92210552/464f84f5-43a2-4d64-973b-13c3d230f673
 
 
 Welcome to my GitHub profile! I'm passionate about coding && learning new technologies.
