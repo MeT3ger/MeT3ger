@@ -3,9 +3,6 @@ ____
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Misha+Moshchenskii&align="center")](https://git.io/typing-svg)
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Misha+Moshchenskii&align="center")](https://git.io/typing-svg)
-</p>
 Welcome to my GitHub profile! I'm passionate about coding && learning new technologies.
 
 ## 🚀 About Me
