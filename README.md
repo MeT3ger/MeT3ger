@@ -1,4 +1,4 @@
-![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)  <p>&#160;1&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;!<p>    ![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)
+![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)  <b>&#160;1&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;!<b>    ![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)
 ____
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Misha+Moshchenskii&align="center")](https://git.io/typing-svg)
