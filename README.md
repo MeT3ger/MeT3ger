@@ -4,7 +4,7 @@ ____
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Misha+Moshchenskii&align="center")](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Misha+Moshchenskii&align="center")](https://git.io/typing-svg)
 </p>
 Welcome to my GitHub profile! I'm passionate about coding && learning new technologies.
 
