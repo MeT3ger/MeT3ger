@@ -1,4 +1,5 @@
-![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)
+![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)  ![shigure-ui-dance](https://github.com/MeT3ger/MeT3ger/assets/92210552/835cccb9-290d-45e5-92bd-762626d2cf0a)
+
 
 # 👋 Hi there, I'm Misha!
 
