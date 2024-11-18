@@ -9,20 +9,20 @@ Welcome to my GitHub profile! I'm passionate about coding && learning new techno
 
 ## 🚀 About Me
 - 🌱 Currently learning: Swift Vapor
-- 💬 Ask me about: ML - Optimization - Backend
+- 💬 Ask me about: Backend - ML - Optimization
 
 ## 🛠️ Languages and Tools
 - 💻 Languages: 
   - [Swift]
+  - [Golang]
   - [Python]
   - [C]
-  - [Golang]
 
 - 🛠️ FrameWorks: 
   - Vapor
-  - Django
-  - TensorFlow
   - Gin
   - Echo
+  - Django
+  - TensorFlow
 
 ![result (2)](https://github.com/MeT3ger/preview/assets/92210552/fd338a2e-6be6-403e-bd19-8b3e9cdb71f9)
