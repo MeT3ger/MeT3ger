@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding && learning new techno
 - 💻 Languages: 
   - [Swift]
   - [Golang]
-  - [Python]
   - [C]
+  - [C++]
 
 - 🛠️ FrameWorks: 
   - Vapor
