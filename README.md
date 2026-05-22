@@ -7,10 +7,6 @@ ____
 
 Welcome to my GitHub profile! I'm passionate about coding && learning new technologies.
 
-## 🚀 About Me
-- 🌱 Currently learning: Swift-Vapor, Go-Gin
-- 💬 Ask me about: Backend - Clouds - ML - Optimization
-
 ## 🛠️ Languages and Tools
 - 💻 Languages: 
   - [Swift]
